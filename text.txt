@@ -1,0 +1,22 @@
+1. Method signatures (metodun imzaları) nələrdir
+
+metodun adi, parametri ve return type-i
+
+
+
+
+2. Mənimsətmə operatorlarını yazın
+
+=  ---> beraberdir
++=  ---> num += 5 --> num = num + 5
+-=  ---> num -= 5 --> num = num - 5
+/=  ---> num /= 3 --> num = num / 3
+*=  ---> num *= 6 --> num = num * 6
+%=  ---> num %= 4 --> num = num % 4
+
+
+
+
+3. Console.ReadLine metodunun return type-ı nədir?
+
+string
